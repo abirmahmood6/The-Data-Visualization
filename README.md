@@ -4,6 +4,6 @@
    My goal was to display how student's attendance affects their GPA in school.
 
   
-GIF Walk-through: https://editor.p5js.org/a.mahmood2018@flushinginternational.org/full/oDFsHOG1E
+Try it out: https://editor.p5js.org/a.mahmood2018@flushinginternational.org/full/oDFsHOG1E
 
 Thank you for looking at my work 😃
